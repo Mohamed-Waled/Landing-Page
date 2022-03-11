@@ -1,20 +1,34 @@
-# Landing Page Project
-A landing page " Home Page " that is dynamically goes " scroll to it " to the section that you choose
+# Udacity - Front End Web Development Professional Nanodegree Program Project 1
 
-Home page contain 5 sections can be scrolled between them dynamically from the navigation bar " navigational menu " smoothly .
+This is a solution to Project 1 from Front End Web Development Professional Nanodegree Program from Udacity
 
-## The languages Used
-HTML
-Css
-Java Script
-Useing Visual Studio Code
+## Table of contents
 
-## Project Files
-index.HTML Contains 75 Lines
-CSS Folder Contains styles.css Contains 223 Lines
-js Folder Contains app.js Contains 160 Lines
-README.md File Contains Information About The Project Contains 19 Lines
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## What The Landing Page Contains :
-dynamic navigationbar
-scrolling effect 
+## Overview
+
+### Screenshot
+
+![](https://raw.githubusercontent.com/Mohamed-Waled/Landing-Page/main/Images/Screenshot%202022-03-11%20at%2011-08-20%20Landing%20Page.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Landing-Page/main/Images/Screenshot%202022-03-11%20at%2011-08-31%20Landing%20Page.png)
+
+### Links
+
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Landing-Page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+## Author
+
+- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
