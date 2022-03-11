@@ -28,6 +28,7 @@ This is a solution to Project 1 from Front End Web Development Professional Nano
 
 - Semantic HTML5 markup
 - CSS custom properties
+- JavaScript Functions & IF and IF Eals Statement
 
 ## Author
 
